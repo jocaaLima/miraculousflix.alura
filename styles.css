@@ -1,0 +1,26 @@
+body{
+color:floralwhite;
+background:darkred;
+margin : 0px
+
+}
+header { 
+  border-bottom : solid;
+  padding: 20px;
+  font-size: 26px;
+  color:floralwhite;
+  background: radial-gradient(black, transparent);
+
+
+}
+section {
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+}
+div {
+   margin-right: 20px;
+
+
+}
