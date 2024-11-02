@@ -10,20 +10,39 @@ header {
    
     color:floralwhite;
     background: radial-gradient(black, transparent);
-
-  
-  
   }
+
   section {
+    
     background: rgb(72 61 139);
 
+   
     padding-bottom: 80px;
     padding-top: 80px;
     display:flex;
     justify-content: center;
 }
+
+
 div {
    margin-right: 20px;
 
 
+}
+h1{
+  font-size: 38px;
+
+}
+img {
+  height: 200px;
+}
+
+.categoria-videos {
+  display: flex;
+ overflow-x: auto;
+ gap:10px;
+}
+section{
+    padding-left: 20px;
+    padding-right: 20px;
 }
