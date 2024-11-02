@@ -1,19 +1,22 @@
 body{
-color:floralwhite;
-background:darkred;
-margin : 0px
-
+    color:floralwhite;
+    background:rebeccapurple;
+    font-family: "Lobster", sans-serif; 
 }
 header { 
-  border-bottom : solid;
-  padding: 20px;
-  font-size: 26px;
-  color:floralwhite;
-  background: radial-gradient(black, transparent);
+    border-bottom : solid;
+    padding: 20px;
+    font-size: 26px;
+   
+    color:floralwhite;
+    background: radial-gradient(black, transparent);
 
+  
+  
+  }
+  section {
+    background: rgb(72 61 139);
 
-}
-section {
     padding-bottom: 80px;
     padding-top: 80px;
     display:flex;
