@@ -12,31 +12,33 @@ header {
   background: radial-gradient(black, transparent);
 }
 
-.chamada {
+section {
 
 
   background: rgb(72 61 139);
 
 
-
+  
   padding-bottom: 90px;
   padding-top: 90px;
   display:flex;
   justify-content: center;
+
 }
 .chamada-texto{  
-  margin-right: 5%;
+  margin-right: 10%;
 }
 
-div {
- margin-right: 20px;
-}
+
  h1 {
   font-size: 40px;
 }
 img{
   height: 200px;
-}
+  opacity: 0.5;
+ border: 1px solid blue
+ }
+
 
 p {
   font-size: 20px;
@@ -53,12 +55,8 @@ p {
   padding-left: 20px;
   padding-right: 20px;
 }
-.categoria-videos img{
-  opacity: 0.5;
+.img:hover{
+  opacity: 1.0;
   height:200px
 }
  
-.categorias-videos img:hover{  
-  opacity:1.0;
-  border: 1px solid whitesmoke
-}
